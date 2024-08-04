@@ -8,7 +8,7 @@ Include the date you created this project and README file.
 Replace the Project Title: Project: Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+Describe what your project is about and what it does. Project: Post your Work on GitHub
 
 ### Files used
 Include the files used
